@@ -3,12 +3,12 @@ import Title from '/src/app/components/PageTitle';
 import Footer from '/src/app/components/Footer';
 import PageContent from '/src/app/components/PageContent';
 
-export default function Home() {
+export default function About() {
   return (
     <>
       <Navbar />
-      <Title Title="Home" />
-      <PageContent Content="Some content is here. :)" />
+      <Title Title="About" />
+      <PageContent />
       <Footer />
     </>
   );
