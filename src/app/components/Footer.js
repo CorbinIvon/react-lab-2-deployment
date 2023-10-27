@@ -1,4 +1,4 @@
-export default () => {
+export default function Footer() {
   return (
     <>
       <hr />
@@ -7,4 +7,4 @@ export default () => {
       </div>
     </>
   );
-};
+}
