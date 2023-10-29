@@ -8,7 +8,7 @@ export default function Home() {
     <>
       <Navbar />
       <Title Title="Home" />
-      <PageContent Content="Some content is here. :)" />
+      <PageContent Content="Home page default content." />
       <PageContent />
       <Footer />
     </>

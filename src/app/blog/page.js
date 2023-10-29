@@ -8,7 +8,7 @@ export default function Blog() {
     <>
       <Navbar />
       <Title Title="Blog" />
-      <PageContent />
+      <PageContent Content="Default content for the Blog." />
       <Footer />
     </>
   );

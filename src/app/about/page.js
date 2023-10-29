@@ -8,7 +8,7 @@ export default function About() {
     <>
       <Navbar />
       <Title Title="About" />
-      <PageContent />
+      <PageContent Content="Default content for about." />
       <Footer />
     </>
   );

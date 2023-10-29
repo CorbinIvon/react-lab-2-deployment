@@ -8,7 +8,7 @@ export default function Contact() {
     <>
       <Navbar />
       <Title Title="Contact" />
-      <PageContent />
+      <PageContent Content="Default content for contacting the page owner." />
       <Footer />
     </>
   );

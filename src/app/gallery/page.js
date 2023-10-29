@@ -8,7 +8,7 @@ export default function Gallery() {
     <>
       <Navbar />
       <Title Title="Gallery" />
-      <PageContent />
+      <PageContent Content="Default content for the gallery." />
       <Footer />
     </>
   );
